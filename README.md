@@ -11,5 +11,41 @@ This Bash script allows you to input a user's name and retrieve their details.
 ```bash
 sh GithubProfile.sh
 ```
+## Example 
+
+```bash
+Enter You Github Profile Name : Heramb4270
+User Name : Heramb4270
+ 
+User Created Account in 2021-05-18
+ 
+Total Public Repos : 14
+ 
+Total Following : 8
+ 
+Total Followers : 10
+ 
+User has Starred Following Repos : ..
+ 
+"krishnaik06/The-Grand-Complete-Data-Science-Materials"
+ 
+"jonasschmedtmann/ultimate-react-course"
+ 
+"SarthakKeshari/calc_for_everything"
+ 
+"aviroopjana/Lumitrix-Wallet"
+ 
+"Heramb4270/Decentralized-Token-Swapping"
+ 
+"flutter/flutter"
+ 
+"public-apis/public-apis"
+ 
+"FrancescoXX/free-Web3-resources"
+ 
+"adwait-rao/HRManagement"
+ 
+Total Starred Repos : 10
+```
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
