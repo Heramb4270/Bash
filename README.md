@@ -7,7 +7,7 @@ This Bash script allows you to input a user's name and retrieve their details.
 3) Open a terminal and navigate to the directory where the script is located.
 3) Run the script by executing the following command:
 4) Copy code
-5) bash user_details.sh
+5) bash Github_Profile.sh
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
