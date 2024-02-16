@@ -6,7 +6,7 @@ This Bash script allows you to input a user's name and retrieve their details.
 2) Download or clone the script from this repository.
 3) Open a terminal and navigate to the directory where the script is located.
 3) Run the script by executing the following command:
-4) bash Github_Profile.sh
+4) bash GithubProfile.sh
 ## How To Run
 ```bash
 sh GithubProfile.sh
