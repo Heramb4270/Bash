@@ -11,10 +11,11 @@ This Bash script allows you to input a user's name and retrieve their details.
 ```bash
 sh GithubProfile.sh
 ```
-## Example 
+## Example Output
 
 ```bash
 Enter You Github Profile Name : Heramb4270
+
 User Name : Heramb4270
  
 User Created Account in 2021-05-18
